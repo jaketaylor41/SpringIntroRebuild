@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springIntroRebuild.iml" filepath="$PROJECT_DIR$/.idea/modules/springIntroRebuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springIntroRebuild_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springIntroRebuild_main.iml" group="springIntroRebuild" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springIntroRebuild_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springIntroRebuild_test.iml" group="springIntroRebuild" />
+    </modules>
+  </component>
+</project>
